@@ -1,0 +1,21 @@
+node_modules/*
+built/*
+npm-debug.log
+
+*.tgz
+
+// build files
+bundles
+*.d.ts
+*.js.map
+src/**/*.js
+src/**/*.js.map
+index.js
+*.ps1
+
+// generated files from Angular Compiler
+*.ngsummary.json
+*.ngfactory.ts
+*.metadata.json
+build.ps1
+deploy.ps1
