@@ -9,16 +9,19 @@ https://github.com/TheKeithStewart/angular-esri-components
 
 At this moment we're planning to work together on a one angular arcgis component library.
 
+## using the library
+A demo project is downloadable from GitHub
+
+https://github.com/JordeyWijnbergen/angular-esri-arcgis-example
+
+
 ## Setup
 
 ```
 npm install --save angularx-esri-components
 ```
 
-## using the library
-A demo project is downloadable from GitHub
 
-https://github.com/JordeyWijnbergen/AngularArcGISExample
 
 
 
